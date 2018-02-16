@@ -1,0 +1,9 @@
+{
+  "extends": "trustpilot/react",
+  "globals": {
+    "angular": true
+  },
+  "env": {
+    "jest": true
+  }
+}
